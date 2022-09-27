@@ -18,8 +18,7 @@ h1 {
 }
 
 .articleCard--image {
-  background-color: grey;
-  flex-basis: 23%;
+  flex-basis: 30%;
   min-height: 250px;
 }
 
